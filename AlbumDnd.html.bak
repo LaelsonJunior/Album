@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<head>
+<meta charset="Utf-8">
+<title>Album Dnd</title>
+<style>
+body
+{
+	padding: 0px;
+	margin:	 0px;
+}
+table
+{
+	text-align: center;
+}
+
+a
+{
+	color: black;
+	text-decoration: none;
+}
+ </style>
+</head>
+
+
+<body>
+
+
+<table border=1>
+	<tr>
+		<td colspan=6><img src="LogoAlbumDnd.jpg" width = 100%> </td>
+
+	</tr>
+	<tr>
+		<td rowspan=2 colspan=2><img src="Tiamat.jpg" ><br><h4><a href = "https://5e.tools/bestiary.html#aspect%20of%20tiamat_ftd" target = "_blank">Tiamat A Rainha Dragão Cromatica</a></h4></td>
+		<td><img src= "DragaoBranco.jpg"><h4>Dragão Branco Adulto</h4></td>
+		<td><img src= "DragaoVermelho.jpg"><h4>Dragão Vermelho Adulto</h4></td>
+		<td><img src= "DragaoNegro.jpg"><h4>Dragão Negro Adulto</h4></td>
+		<td><img src= "DragaoAzul.jpg"><h4>Dragão Azul Adulto</h4></td>
+		
+
+	</tr>
+	<tr>
+		<td><img src = "DragaoVerde.jpg"><h4>Dragão Verde Adulto</h4></td>
+		<td><img src = "DragaoTopazio.jpg"><h4>Dragão De Topazio Adulto</h4></td>
+		<td><img src = "DragaoSafira.jpg" width = 100%><h4>Dragão De Safira Adulto</h4></td>
+		<td><img src = "DragaoCrystal.jpg"><h4>Dragão De Cristal Adulto</h4></td>
+
+		
+	</tr>
+
+	<tr>
+		<td><img src = "DragaoAmethyst.jpg"><h4>Dragão De Ametista Adulto</h4></td>
+		<td><img src = "DragaoEsmeralda.jpg"><h4>Dragão De Esmeralda Adulto</h4></td>
+		<td><img src = "DragaoLatao.jpeg"><h4>Dragão De Latão Adulto</h4></td>
+		<td><img src = "DragaoPrateado.jpg"><h4>Dragão De Prata Adulto</h4></td>
+		<td><img src = "DragaoBronze.jpg"><h4>Dragão De Bronze Adulto</h4></td>
+		<td rowspan = 2><img src = "Bahamut.jpg" width = 100%><h2>Bahamut O Deus Dragão Metalico</h2></td>
+		
+		
+	</tr>
+	<tr>
+		<td><img src = "DragaoCobre.jpg"><h4>Dragão De Cobre Adulto</h4></td>
+		<td><img src = "DragaoOuro.jpg"><h4>Dragão De Ouro Adulto</h4></td>
+		<td><img src = "Drake.jpg"><h4>Drakes</h4></td>
+		<td><img src = "MeioDragao.jpg"><h4>Meio Dragão</h4></td>
+		<td><img src = "DragonBorn.jpg"><h4>Dragonborn</h4></td>
+		
+		
+	</tr>
+	<tr>
+		<td colspan = 6><img src = "FizBan.jpg" width = 100%></td>
+
+	</tr>
+	
+</table>
+
+</body>
+</html>
